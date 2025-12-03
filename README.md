@@ -59,4 +59,15 @@
 - **REST API / Microservice using Laravel or NodeJS**  
 - **Python / backend tasks**  
 - **Blockchain DApp + Smart Contract (Solidity + Web3)**  
-- **DevOps CI/CD pipelines (GitHub Actions or Bitbucket Pipelines)**  
+- **DevOps CI/CD pipelines (GitHub Actions or Bitbucket Pipelines)**
+  
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EstherLaw404&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstherLaw404&layout=compact&theme=radical" height="165"/>
+</p>
+
+---
+  
