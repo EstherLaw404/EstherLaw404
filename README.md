@@ -48,12 +48,4 @@ Skilled in **PHP (Laravel), Python, NodeJS, and blockchain technologies**, deliv
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-121212?style=for-the-badge)
 
----
-
-## 📌 Featured Projects (Pin These on GitHub)
-- **Full-Stack SaaS App (Laravel + Vue + Docker + AWS)**  
-- **REST API / Microservice using Laravel or NodeJS**  
-- **Python / backend tasks**  
-- **Blockchain DApp + Smart Contract (Solidity + Web3)**  
-- **DevOps CI/CD pipelines (GitHub Actions or Bitbucket Pipelines)**
   
