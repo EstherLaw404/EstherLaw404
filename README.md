@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋, I'm Esther</h1>
-<h3 align="center">Senior Full-Stack Engineer | Backend Expert | Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h3 align="center">Senior Full-Stack Engineer | Backend Expert | Cloud & DevOps | Software Engineer</h3>
 
 ---
 
 ### 👨‍💻 About Me  
-- 🔭 I build full-stack applications, APIs, cloud-ready systems, and high-performance backend services  
-- 🌱 Currently exploring **scalable microservices**, **Web3 integrations**, and **DevOps automation**  
-- 💼 Senior Full Stack Developer |  hands-on with architecture, CI/CD, and cloud deployments  
-- 💬 Ask me about **Laravel, NodeJS, Vue, DevOps, AWS, Blockchain**  
-- 📫 Reach me at: **xuexue0404@gmail.com**  
-- 🌎 Portfolio: *your-portfolio-link*
+**Senior Full Stack Developer with 10 years of experience building scalable, secure, and high-performance applications.**  
+Skilled in **PHP (Laravel), Python, NodeJS, and blockchain technologies**, delivering **end-to-end solutions** from backend to frontend with **CI/CD deployment** and cloud-based architectures.
 
 ---
 
@@ -60,14 +56,4 @@
 - **Python / backend tasks**  
 - **Blockchain DApp + Smart Contract (Solidity + Web3)**  
 - **DevOps CI/CD pipelines (GitHub Actions or Bitbucket Pipelines)**
-  
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EstherLaw404&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstherLaw404&layout=compact&theme=radical" height="165"/>
-</p>
-
----
   
